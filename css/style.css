@@ -29,7 +29,7 @@ body{
 
 .slides-navigation a.prev{
 	left:20px;
-	background-image:url("images/previous.PNG");
+	background-image:url("../images/previous.PNG");
 
 }
 
@@ -37,7 +37,7 @@ body{
 .slides-navigation a.next{
 
 	right:20px;
-	background-image:url("images/next.PNG");
+	background-image:url("../images/next.PNG");
 
 }
 
